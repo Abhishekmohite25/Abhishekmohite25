@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Profile GIF](https://private-user-images.githubusercontent.com/42070596/466996710-e22868d1-db43-4e75-bc97-58cc33298399.gif)
+
 <!--
 **Abhishekmohite25/Abhishekmohite25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
