@@ -9,7 +9,7 @@
 🎓 I graduated from University of Mumbai (Bachelor of Engineering in Information Technology, Batch of 2021).\
 💬 Feel free to reach out to me for new opportunities or discussions on the aforementioned topics!\
 ✉️ You can email me at [mohiteabhishek25@gmail.com](mailto:mohiteabhishek25@gmail.com). I'll try to respond as soon as possible!\
-📄 You can check my [LinkedIn](https://www.linkedin.com/in/abhishekmohitedataengineer/) for more details about work experience.
+📄 You can check my [LinkedIn](https://www.linkedin.com/in/abhishekmohite-data-engineer/) for more details about work experience.
 
 
 ## 🛠 Tech Stack
@@ -41,5 +41,5 @@
 ## 📫 How to reach me:
 
 
-<a href="https://www.linkedin.com/in/abhishekmohitedataengineer/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/abhishekmohite-data-engineer/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="mailto:mohiteabhishek25@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
